@@ -8,3 +8,9 @@ flowchart TD
     B --> |Computation needed| D[Vectors + SIMD]
     C --> |Make code maintaineable| E[ref struct]
 ```
+
+![String-palindrome-results](./images/String-palindrome-results.png)
+
+![String-parse-results](./images/String-parse-results.png)
+
+![ByteArrayCompareResults](./images/ByteArrayCompareResults.png)
