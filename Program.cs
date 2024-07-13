@@ -10,7 +10,7 @@ public class Program
 #if DEBUG
 #else
         //dotnet run -c Release
-        //var summary1 = BenchmarkDotNet.Running.BenchmarkRunner.Run<StringPalindromeBenchmark>();
+        var summary1 = BenchmarkDotNet.Running.BenchmarkRunner.Run<StringPalindromeBenchmark>();
         var summary2 = BenchmarkDotNet.Running.BenchmarkRunner.Run<StringSequenceParseBenchmark>();
         var summary3 = BenchmarkDotNet.Running.BenchmarkRunner.Run<ByteArrayCompareWithThresholdBenchmark>();
 #endif
