@@ -14,3 +14,5 @@ flowchart TD
 ![String-parse-results](./images/String-parse-results.png)
 
 ![ByteArrayCompareResults](./images/ByteArrayCompareResults.png)
+
+![JsonProcessing](./images/JsonProcessing.png)

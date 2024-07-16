@@ -1,0 +1,81 @@
+{
+    "Timestamp": "2024-07-16T23:06:57.4320783+02:00",
+    "Telemetry": [
+        {
+            "Model": "HX",
+            "Telemetry": [
+                {
+                    "Timestamp": "2024-07-13T19:01:42.7292821+02:00",
+                    "Comment": "Random TelemetryItem comment 1",
+                    "Value": 1072048197,
+                    "Latitude": 0.32555530035324554,
+                    "Longitude": 0.3034846520949056
+                },
+                {
+                    "Timestamp": "2024-07-03T22:27:06.374857+02:00",
+                    "Comment": "Random TelemetryItem comment 2",
+                    "Value": 555102196,
+                    "Latitude": 0.9691664648269019,
+                    "Longitude": 0.9469515333206777
+                },
+                {
+                    "Timestamp": "2024-07-02T20:57:40.6248704+02:00",
+                    "Comment": "Random TelemetryItem comment 3",
+                    "Value": 1785469646,
+                    "Latitude": 0.7083434539476253,
+                    "Longitude": 0.10623996005627478
+                },
+                {
+                    "Timestamp": "2024-07-16T03:40:36.810871+02:00",
+                    "Comment": "Random TelemetryItem comment 4",
+                    "Value": 933334556,
+                    "Latitude": 0.5488531545044033,
+                    "Longitude": 0.4616284661093134
+                },
+                {
+                    "Timestamp": "2024-07-07T18:10:21.2108713+02:00",
+                    "Comment": "Random TelemetryItem comment 5",
+                    "Value": 459601185,
+                    "Latitude": 0.385086980074949,
+                    "Longitude": 0.26163650193133525
+                },
+                {
+                    "Timestamp": "2024-07-05T08:05:58.1548716+02:00",
+                    "Comment": "Random TelemetryItem comment 6",
+                    "Value": 663943903,
+                    "Latitude": 0.5442631130812818,
+                    "Longitude": 0.038699131642225826
+                },
+                {
+                    "Timestamp": "2024-07-16T13:41:33.071872+02:00",
+                    "Comment": "Random TelemetryItem comment 7",
+                    "Value": 1700746564,
+                    "Latitude": 0.7067603509921506,
+                    "Longitude": 0.9021544844570837
+                },
+                {
+                    "Timestamp": "2024-07-15T11:48:52.0818723+02:00",
+                    "Comment": "Random TelemetryItem comment 8",
+                    "Value": 1225744298,
+                    "Latitude": 0.5239972754651462,
+                    "Longitude": 0.07885650055914639
+                },
+                {
+                    "Timestamp": "2024-06-24T12:52:47.1028726+02:00",
+                    "Comment": "Random TelemetryItem comment 9",
+                    "Value": 1120993107,
+                    "Latitude": 0.20842305797396254,
+                    "Longitude": 0.7007004632581487
+                },
+                {
+                    "Timestamp": "2024-06-23T07:15:51.3378729+02:00",
+                    "Comment": "Random TelemetryItem comment 10",
+                    "Value": 1743614104,
+                    "Latitude": 0.40716904798775855,
+                    "Longitude": 0.10790878796609293
+                }
+            ]
+        }
+    ],
+    "Comment": "Random global comment 11"
+}
